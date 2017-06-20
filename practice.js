@@ -2,7 +2,7 @@
 
 
 
-onGetCaptureValue: function (formMappingId, value, controls) {
+function onGetCaptureValue (formMappingId, value, controls) {
   if(formMappingId===418506){
 
    value = (function(dl){
@@ -10,7 +10,7 @@ onGetCaptureValue: function (formMappingId, value, controls) {
      if(dl[i]['user.profile.country'])
      return dl[i]['user.profile.country'];
    })(dataLayer);
-
+    console.log("CHANGE 1");
   }
   return value;
 }
