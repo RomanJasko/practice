@@ -19,3 +19,7 @@ function anotherOne {
 function functionThree {
     console.log('this is function three added 29.06');
 }
+
+function functionFour {
+    console.log('this is function four added 29.06');
+}
