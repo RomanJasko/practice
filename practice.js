@@ -14,3 +14,8 @@ function onGetCaptureValue(formMappingId, value, controls) {
 function anotherOne {
     console.log('this is another function');
 }
+
+
+function functionThree {
+    console.log('this is function three added 29.06');
+}

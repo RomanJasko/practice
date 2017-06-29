@@ -1,0 +1,129 @@
+/* Message heading 1 */
+
+.prompt-text-1 {
+    font-family: 'MarckScript', sans-serif !important;
+    font-weight: 400 !important;
+    margin-top: 40px !important;
+    font-style: normal !important;
+    color: #fff !important;
+    text-shadow: 3px 3px 0px rgba(255, 255, 255, 0) !important;
+    text-align: left !important;
+    letter-spacing: 0px !important;
+    text-decoration: none !important;
+    text-transform: none !important;
+    background-color: none !important;
+}
+
+
+/* Message heading 2 */
+
+.prompt-text-2 {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 16px;
+    text-shadow: 1px 1px 0px rgba(226, 29, 103, 9)!important;
+    font-style: normal !important;
+    color: #fff !important;
+    text-align: left !important;
+    letter-spacing: 0px !important;
+    text-decoration: none !important;
+    text-transform: uppercase !important;
+}
+
+
+/* Message heading 3 */
+
+.prompt-text-3 {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 800 !important;
+    font-size: 38px;
+    line-height: 40px !important;
+    font-style: normal !important;
+    color: #fff!important;
+    text-shadow: 2px 2px 0px rgba(226, 29, 103, 9)!important;
+    letter-spacing: 0px !important;
+    text-decoration: none !important;
+    text-align: left !important;
+    text-transform: uppercase !important;
+    background-color: none !important;
+}
+
+
+/* Message heading 4 */
+
+.prompt-text-4 {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 15px;
+    font-style: normal !important;
+    color: #333745 !important;
+    text-align: left !important;
+    letter-spacing: 0px !important;
+    text-decoration: none !important;
+}
+
+
+/* Message heading 5 */
+
+.prompt-text-5 {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 16px;
+    font-style: normal !important;
+    color: #405ca2 !important;
+    text-align: left !important;
+    letter-spacing: 1px !important;
+    text-decoration: none !important;
+    text-transform: none !important;
+    background-color: none !important;
+}
+
+
+/* Message heading 6 */
+
+prompt-text-6 {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 800 !important;
+    font-size: 38px;
+    line-height: 40px !important;
+    font-style: normal !important;
+    color: #fff!important;
+    text-shadow: 2px 2px 0px rgba(226, 29, 103, 9)!important;
+    letter-spacing: 0px !important;
+    text-decoration: none !important;
+    text-transform: uppercase !important;
+    background-color: none !important;
+}
+
+
+/* Message promocode */
+
+.promo-code {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 15px;
+    font-style: normal !important;
+    color: #333745 !important;
+    text-align: left !important;
+    letter-spacing: 0px !important;
+    text-decoration: none !important;
+}
+
+@font-face {
+    font-family: 'Marck';
+    font-style: normal;
+    font-weight: normal;
+    src: url('https://customerassetse1.azureedge.net/52335/fonts/1c162c9c-527a-4c63-9e76-7ee160b451d3/regular.ttf') format('truetype');
+}
+
+.components-btn-wrapper.hover-btn {
+    color: #fff !important;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 200 !important;
+    padding: 8px 0 6px 0px;
+    font-size: 12px;
+    text-shadow: 0px 1px 0px rgba(34, 34, 34, 0) !important;
+    letter-spacing: 1px !important;
+    text-decoration: none !important;
+    text-transform: uppercase !important;
+}
